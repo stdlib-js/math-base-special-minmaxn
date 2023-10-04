@@ -52,13 +52,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import minmaxn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxn@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-minmaxn/tags). For example,
+
+```javascript
 import minmaxn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxn@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxn@v0.1.1-esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxn@esm/index.mjs';
 ```
 
 #### minmaxn( \[x\[, y\[, ...args]]] )
@@ -133,7 +138,7 @@ var bool = ( v === out );
 <script type="module">
 
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@esm/index.mjs';
-import minmaxn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxn@v0.1.1-esm/index.mjs';
+import minmaxn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxn@esm/index.mjs';
 
 var x;
 var y;
