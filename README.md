@@ -171,6 +171,14 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/maxn`][@stdlib/math/base/special/maxn]</span><span class="delimiter">: </span><span class="description">return the maximum value.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/minn`][@stdlib/math/base/special/minn]</span><span class="delimiter">: </span><span class="description">return the minimum value.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/minmaxabsn`][@stdlib/math/base/special/minmaxabsn]</span><span class="delimiter">: </span><span class="description">return the minimum and maximum absolute values.</span>
+
 </section>
 
 <!-- /.related -->
@@ -248,6 +256,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-minmaxn/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/maxn]: https://github.com/stdlib-js/math-base-special-maxn
+
+[@stdlib/math/base/special/minn]: https://github.com/stdlib-js/math-base-special-minn
+
+[@stdlib/math/base/special/minmaxabsn]: https://github.com/stdlib-js/math-base-special-minmaxabsn
 
 <!-- </related-links> -->
 
